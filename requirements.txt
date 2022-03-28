@@ -1,0 +1,5 @@
+# Released: Nov 27, 2019
+gunicorn==20.0.4
+
+# release date 04.02.2022
+Flask==2.0.2
